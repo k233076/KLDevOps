@@ -1,0 +1,5 @@
+'*':
+  - users
+  
+'lot*':
+  - apache
